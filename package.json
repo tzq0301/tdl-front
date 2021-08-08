@@ -7,6 +7,8 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "element-plus": "^1.0.2-beta.70",
+    "global": "^4.4.0",
     "vue": "^3.0.5"
   },
   "devDependencies": {
